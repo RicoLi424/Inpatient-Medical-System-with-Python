@@ -4,45 +4,7 @@ Implemented with Python and MySQL, designed for patients, nurses and doctors wit
 **E-R Schema**  
 ![image](https://user-images.githubusercontent.com/114987225/196132107-6c4c6714-e9b4-474e-a23a-6da16cac1d82.png)
 
-table.MsoNormalTable{
-mso-style-name:普通表格;
-mso-style-parent:"";
-mso-style-noshow:yes;
-mso-tstyle-rowband-size:0;
-mso-tstyle-colband-size:0;
-mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
-mso-para-margin:0pt;
-mso-para-margin-bottom:.0001pt;
-mso-pagination:widow-orphan;
-font-family:'Times New Roman';
-font-size:10.0000pt;
-mso-ansi-language:#0400;
-mso-fareast-language:#0400;
-mso-bidi-language:#0400;
-}
 
-table.MsoTableGrid{
-mso-style-name:网格型;
-mso-tstyle-rowband-size:0;
-mso-tstyle-colband-size:0;
-mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
-mso-border-top-alt:0.5000pt solid windowtext;
-mso-border-left-alt:0.5000pt solid windowtext;
-mso-border-bottom-alt:0.5000pt solid windowtext;
-mso-border-right-alt:0.5000pt solid windowtext;
-mso-border-insideh:0.5000pt solid windowtext;
-mso-border-insidev:0.5000pt solid windowtext;
-mso-para-margin:0pt;
-mso-para-margin-bottom:.0001pt;
-mso-pagination:none;
-text-align:justify;
-text-justify:inter-ideograph;
-font-family:'Times New Roman';
-font-size:10.0000pt;
-mso-ansi-language:#0400;
-mso-fareast-language:#0400;
-mso-bidi-language:#0400;
-}
 @page{mso-page-border-surround-header:no;
 	mso-page-border-surround-footer:no;}@page Section0{
 margin-top:72.0000pt;
@@ -1812,4 +1774,4 @@ font-size:11.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=
 font-size:11.0000pt;mso-font-kerning:1.0000pt;" ><font face="Calibri" >patients(id) </font></span><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
 font-size:11.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:宋体;font-size:11.0000pt;
 mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
-
+mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></div><!--EndFragment--></body></html>

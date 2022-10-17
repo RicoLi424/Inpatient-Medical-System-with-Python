@@ -5,17 +5,6 @@ Implemented with Python and MySQL, designed for patients, nurses and doctors wit
 ![image](https://user-images.githubusercontent.com/114987225/196132107-6c4c6714-e9b4-474e-a23a-6da16cac1d82.png)
 
 
-@page{mso-page-border-surround-header:no;
-	mso-page-border-surround-footer:no;}@page Section0{
-margin-top:72.0000pt;
-margin-bottom:72.0000pt;
-margin-left:90.0000pt;
-margin-right:90.0000pt;
-size:595.3000pt 841.9000pt;
-layout-grid:15.6000pt;
-mso-header-margin:42.5500pt;
-mso-footer-margin:49.6000pt;
-}
 div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-justify-trim:punctuation;" ><!--StartFragment--><div class="Section0"  style="layout-grid:15.6000pt;" ><table class=MsoTableGrid  border=1  cellspacing=0  style="border-collapse:collapse;width:481.9000pt;mso-table-layout-alt:fixed;
 border:none;mso-border-left-alt:0.5000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;
 mso-border-right-alt:0.5000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;mso-border-insideh:0.5000pt solid windowtext;
